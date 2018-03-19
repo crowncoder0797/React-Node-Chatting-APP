@@ -1,0 +1,24 @@
+0875ff5 2018-03-20 03:48:43 Initial commit
+98aadc4 2018-03-22 04:46:38 implement server api
+6039b7c 2018-03-23 03:31:42 integrate webpack
+8d0f829 2018-03-23 05:06:47 refactor server
+a103975 2018-03-23 05:07:07 initial create react app
+ac42a8d 2018-03-23 23:17:54 initial layout
+d0a01e1 2018-03-24 18:51:15 auth logic
+b26595e 2018-03-24 19:55:49 main app structure
+11baedd 2018-03-24 20:22:28 update assets
+8c42057 2018-03-24 20:24:29 remove css
+f27f82b 2018-03-25 02:21:14 add readme
+902057b 2018-03-27 05:46:58 add username unique validation
+67f5cf8 2018-03-27 23:46:25 refresh token (wip)
+001544d 2018-03-28 04:44:15 fix refresh token
+feb8dec 2018-04-01 05:22:45 simple chat functionality
+e5176a4 2018-04-01 05:25:56 update readme with main chat screenshot
+88bf11d 2018-04-01 08:04:03 add date divider
+19a0547 2018-04-04 23:49:50 workspace initial server and saga (wip)
+f8c87fd 2018-04-05 23:18:38 implement workspace backend
+91bd944 2018-04-06 10:08:23 implement workspace list saga
+ec0c9fb 2018-04-07 00:36:06 change the logic for workspace
+30f97dd 2018-04-07 05:06:35 fix workspace api
+c9033bd 2018-04-07 11:05:03 workspace route
+bd74a38 2018-04-07 12:10:41 confirm email
